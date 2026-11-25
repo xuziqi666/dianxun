@@ -1,0 +1,192 @@
+{
+  "isolated_data": "temporary directory; local path omitted",
+  "checks": {
+    "real_double_click": 2,
+    "real_right_and_middle_click": true,
+    "global_f7_start_and_count_limit": true,
+    "global_f7_pause_resume": true,
+    "global_f8_long_wait_stop_ms": 0.0,
+    "corner_stop_while_paused_ms": 31.0,
+    "real_screen_point_pick": true,
+    "global_f4_stream_pick_and_escape": true,
+    "real_record_and_save": 2,
+    "real_recorded_script_replay": true,
+    "script_error_visible_and_state_restored": true
+  },
+  "captures": {
+    "workbench-desktop": {
+      "path": "workbench-desktop.png",
+      "width": 1240,
+      "height": 790
+    },
+    "workbench-script-error": {
+      "path": "workbench-script-error.png",
+      "width": 1240,
+      "height": 790
+    }
+  },
+  "ready": true,
+  "native_status": "passed",
+  "diagnostics": {
+    "keys": [
+      [
+        "key down",
+        "F7",
+        6
+      ],
+      [
+        "key up",
+        "F7",
+        6
+      ],
+      [
+        "key down",
+        "F7",
+        6
+      ],
+      [
+        "key up",
+        "F7",
+        6
+      ],
+      [
+        "key down",
+        "F7",
+        6
+      ],
+      [
+        "key up",
+        "F7",
+        6
+      ],
+      [
+        "key down",
+        "F7",
+        6
+      ],
+      [
+        "key up",
+        "F7",
+        6
+      ],
+      [
+        "key down",
+        "F8",
+        6
+      ],
+      [
+        "key up",
+        "F8",
+        6
+      ],
+      [
+        "key down",
+        "F7",
+        6
+      ],
+      [
+        "key up",
+        "F7",
+        6
+      ],
+      [
+        "key down",
+        "F7",
+        6
+      ],
+      [
+        "key up",
+        "F7",
+        6
+      ],
+      [
+        "key down",
+        "F4",
+        0
+      ],
+      [
+        "key up",
+        "F4",
+        0
+      ],
+      [
+        "key down",
+        "Escape",
+        0
+      ],
+      [
+        "key up",
+        "Escape",
+        0
+      ],
+      [
+        "key down",
+        "F10",
+        3
+      ],
+      [
+        "key up",
+        "F10",
+        3
+      ],
+      [
+        "key down",
+        "F9",
+        0
+      ],
+      [
+        "key up",
+        "F9",
+        0
+      ],
+      [
+        "key down",
+        "F6",
+        2
+      ],
+      [
+        "key up",
+        "F6",
+        2
+      ]
+    ],
+    "logs": [
+      "14:11:40  点位测试完成 · 专用计数器 · Left/Double · (1711, 911)",
+      "14:11:40  点位测试完成 · 专用计数器 · Right/Single · (1711, 911)",
+      "14:11:40  点位测试完成 · 专用计数器 · Middle/Single · (1711, 911)",
+      "14:11:40  多点连点已启动",
+      "14:11:40  已完成 3 次点击",
+      "14:11:40  已完成 3 次点击",
+      "14:11:41  多点连点已启动",
+      "14:11:41  任务已暂停",
+      "14:11:41  任务已继续",
+      "14:11:41  已停止",
+      "14:11:41  多点连点已启动",
+      "14:11:41  任务已暂停",
+      "14:11:41  鼠标移到左上角，已停止",
+      "14:11:41  鼠标移到左上角，已停止",
+      "14:11:42  mouse left down at (0.8911458333333333, 0.8435185185185186) after 97ms",
+      "14:11:42  mouse left up at (0.8911458333333333, 0.8435185185185186) after 2ms",
+      "14:11:42  mouse left down at ['0.8911458333333333%', '0.8435185185185186%'] after 97ms",
+      "14:11:42  mouse left up at ['0.8911458333333333%', '0.8435185185185186%'] after 2ms",
+      "14:11:42  脚本已完成",
+      "14:11:42  脚本运行失败：错误反馈验证.json5：解析脚本失败：scripts[1]：scripts[1].events[1]：不支持的动作 type：invalid",
+      "14:11:42  脚本运行失败"
+    ],
+    "state": 0,
+    "keys_down": [],
+    "target_events": [
+      1,
+      1,
+      2,
+      4,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+}
